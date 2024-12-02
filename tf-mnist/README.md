@@ -21,5 +21,3 @@ pip install ipykernel
 # Install Tensorflow, Pandas, Keras, Numpy, etc.
 pip install numpy pandas matplotlib tensorflow keras
 ```
-
-## Learnings
