@@ -17,6 +17,9 @@ python -m venv ml
 # Note that when using VS Code, Jupyter is not required to be installed in the virtual environment.
 # Read More: https://github.com/microsoft/vscode-jupyter/wiki/Kernels-(Architecture)
 pip install ipykernel
+
+# Install Tensorflow, Pandas, Keras, Numpy, etc.
+pip install numpy pandas matplotlib tensorflow keras
 ```
 
-## Summary
+## Learnings
